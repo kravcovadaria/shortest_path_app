@@ -1,16 +1,7 @@
-# webspark_test
+# The Shortest Path Calculation App
 
-Тестове завдання
+Test task made by Kravtsova Daria
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Created a test application. The application gets test data from url and computes the shortest path based on this data. Сalculation results send to the given url and can be displayed in a form of a matrix in the app.
